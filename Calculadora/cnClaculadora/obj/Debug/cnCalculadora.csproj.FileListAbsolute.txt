@@ -1,0 +1,5 @@
+c:\users\yaudi02\documents\visual studio 2010\Projects\Calculadora\cnClaculadora\bin\Debug\cnClaculadora.dll
+c:\users\yaudi02\documents\visual studio 2010\Projects\Calculadora\cnClaculadora\bin\Debug\cnClaculadora.pdb
+c:\users\yaudi02\documents\visual studio 2010\Projects\Calculadora\cnClaculadora\obj\Debug\cnClaculadora.dll
+c:\users\yaudi02\documents\visual studio 2010\Projects\Calculadora\cnClaculadora\obj\Debug\cnClaculadora.pdb
+C:\Users\Yaudi02\Documents\Visual Studio 2010\Projects\Calculadora\cnClaculadora\obj\Debug\cnCalculadora.csprojResolveAssemblyReference.cache

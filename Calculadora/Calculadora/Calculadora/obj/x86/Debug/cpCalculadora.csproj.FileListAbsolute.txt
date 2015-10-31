@@ -1,0 +1,26 @@
+d:\users\antonio\documents\visual studio 2010\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+d:\users\antonio\documents\visual studio 2010\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+d:\users\antonio\documents\visual studio 2010\Projects\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Form1.resources
+d:\users\antonio\documents\visual studio 2010\Projects\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+d:\users\antonio\documents\visual studio 2010\Projects\Calculadora\Calculadora\obj\x86\Debug\cpCalculadora.csproj.GenerateResource.Cache
+d:\users\antonio\documents\visual studio 2010\Projects\Calculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+d:\users\antonio\documents\visual studio 2010\Projects\Calculadora\Calculadora\obj\x86\Debug\Calculadora.pdb
+d:\users\antonio\documents\visual studio 2010\Projects\Calculadora\Calculadora\bin\Debug\CNCalculadora.dll
+d:\users\antonio\documents\visual studio 2010\Projects\Calculadora\Calculadora\bin\Debug\CNCalculadora.pdb
+d:\users\antonio\documents\visual studio 2010\Projects\Calculadora\Calculadora\obj\x86\Debug\cpCalculadora.csprojResolveAssemblyReference.cache
+D:\Users\Antonio\Documents\Visual Studio 2010\Projects\Calculadora\Calculadora\bin\Debug\cpPalabras.exe
+D:\Users\Antonio\Documents\Visual Studio 2010\Projects\Calculadora\Calculadora\bin\Debug\cpPalabras.pdb
+C:\Users\freddy\Desktop\Calculadora\Calculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+C:\Users\freddy\Desktop\Calculadora\Calculadora\Calculadora\obj\x86\Debug\Calculadora.pdb
+C:\Users\freddy\Desktop\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\freddy\Desktop\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\freddy\Desktop\Calculadora\Calculadora\Calculadora\bin\Debug\CNCalculadora.dll
+C:\Users\freddy\Desktop\Calculadora\Calculadora\Calculadora\bin\Debug\CNCalculadora.pdb
+C:\Users\freddy\Desktop\Calculadora\Calculadora\Calculadora\obj\x86\Debug\cpCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\freddy\Desktop\Calculadora\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Form1.resources
+C:\Users\freddy\Desktop\Calculadora\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+C:\Users\freddy\Desktop\Calculadora\Calculadora\Calculadora\obj\x86\Debug\cpCalculadora.csproj.GenerateResource.Cache
+C:\Users\freddy\Documents\Visual Studio 2010\Projects\Calculadora\Calculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+C:\Users\freddy\Documents\Visual Studio 2010\Projects\Calculadora\Calculadora\Calculadora\obj\x86\Debug\Calculadora.pdb
+D:\respaldoVisualStudio\Calculadora\Calculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+D:\respaldoVisualStudio\Calculadora\Calculadora\Calculadora\obj\x86\Debug\Calculadora.pdb

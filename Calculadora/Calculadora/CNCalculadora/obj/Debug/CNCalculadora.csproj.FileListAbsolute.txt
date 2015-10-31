@@ -1,0 +1,10 @@
+d:\users\antonio\documents\visual studio 2010\Projects\Calculadora\CNCalculadora\bin\Debug\CNCalculadora.dll
+d:\users\antonio\documents\visual studio 2010\Projects\Calculadora\CNCalculadora\bin\Debug\CNCalculadora.pdb
+d:\users\antonio\documents\visual studio 2010\Projects\Calculadora\CNCalculadora\obj\Debug\CNCalculadora.dll
+d:\users\antonio\documents\visual studio 2010\Projects\Calculadora\CNCalculadora\obj\Debug\CNCalculadora.pdb
+d:\users\antonio\documents\visual studio 2010\Projects\Calculadora\CNCalculadora\obj\Debug\cnCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\freddy\Desktop\Calculadora\Calculadora\CNCalculadora\bin\Debug\CNCalculadora.dll
+C:\Users\freddy\Desktop\Calculadora\Calculadora\CNCalculadora\bin\Debug\CNCalculadora.pdb
+C:\Users\freddy\Desktop\Calculadora\Calculadora\CNCalculadora\obj\Debug\cnCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\freddy\Desktop\Calculadora\Calculadora\CNCalculadora\obj\Debug\CNCalculadora.dll
+C:\Users\freddy\Desktop\Calculadora\Calculadora\CNCalculadora\obj\Debug\CNCalculadora.pdb

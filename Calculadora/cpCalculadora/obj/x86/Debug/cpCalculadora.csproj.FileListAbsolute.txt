@@ -1,0 +1,10 @@
+c:\users\yaudi02\documents\visual studio 2010\Projects\Calculadora\cpCalculadora\bin\Debug\cpCalculadora.exe
+c:\users\yaudi02\documents\visual studio 2010\Projects\Calculadora\cpCalculadora\bin\Debug\cpCalculadora.pdb
+c:\users\yaudi02\documents\visual studio 2010\Projects\Calculadora\cpCalculadora\obj\x86\Debug\cpCalculadora.Properties.Resources.resources
+c:\users\yaudi02\documents\visual studio 2010\Projects\Calculadora\cpCalculadora\obj\x86\Debug\cpCalculadora.csproj.GenerateResource.Cache
+c:\users\yaudi02\documents\visual studio 2010\Projects\Calculadora\cpCalculadora\obj\x86\Debug\cpCalculadora.exe
+c:\users\yaudi02\documents\visual studio 2010\Projects\Calculadora\cpCalculadora\obj\x86\Debug\cpCalculadora.pdb
+c:\users\yaudi02\documents\visual studio 2010\Projects\Calculadora\cpCalculadora\obj\x86\Debug\cpCalculadora.csprojResolveAssemblyReference.cache
+c:\users\yaudi02\documents\visual studio 2010\Projects\Calculadora\cpCalculadora\bin\Debug\cnClaculadora.dll
+c:\users\yaudi02\documents\visual studio 2010\Projects\Calculadora\cpCalculadora\bin\Debug\cnClaculadora.pdb
+C:\Users\Yaudi02\Documents\Visual Studio 2010\Projects\Calculadora\cpCalculadora\obj\x86\Debug\cpCalculadora.Calculadora.resources
