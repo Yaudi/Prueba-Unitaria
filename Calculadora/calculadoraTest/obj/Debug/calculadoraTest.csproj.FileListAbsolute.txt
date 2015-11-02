@@ -1,0 +1,7 @@
+C:\Users\Yaudi02\Documents\Visual Studio 2010\Projects\Calculadora\calculadoraTest\bin\Debug\calculadoraTest.dll
+C:\Users\Yaudi02\Documents\Visual Studio 2010\Projects\Calculadora\calculadoraTest\bin\Debug\calculadoraTest.pdb
+C:\Users\Yaudi02\Documents\Visual Studio 2010\Projects\Calculadora\calculadoraTest\bin\Debug\cnClaculadora.dll
+C:\Users\Yaudi02\Documents\Visual Studio 2010\Projects\Calculadora\calculadoraTest\bin\Debug\cnClaculadora.pdb
+C:\Users\Yaudi02\Documents\Visual Studio 2010\Projects\Calculadora\calculadoraTest\obj\Debug\calculadoraTest.csprojResolveAssemblyReference.cache
+C:\Users\Yaudi02\Documents\Visual Studio 2010\Projects\Calculadora\calculadoraTest\obj\Debug\calculadoraTest.dll
+C:\Users\Yaudi02\Documents\Visual Studio 2010\Projects\Calculadora\calculadoraTest\obj\Debug\calculadoraTest.pdb

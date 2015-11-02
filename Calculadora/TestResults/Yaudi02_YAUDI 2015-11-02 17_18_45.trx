@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="ee195b39-d0cb-4d91-bf5a-540b28fe8237" name="Yaudi02@YAUDI 2015-11-02 17:18:45" runUser="YAUDI\Yaudi02" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="3cf43bb4-15bc-4363-bde9-c4ace15e3d25">
+    <Description>Esta es la configuración de pruebas predeterminada para una ejecución de pruebas local.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Yaudi02_YAUDI 2015-11-02 17_18_45">
+      <DeploymentItem filename="C:\Users\Yaudi02\Documents\Visual Studio 2010\Projects\Calculadora\cnClaculadora\bin\Debug\cnClaculadora.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2015-11-02T17:18:45.1101293-06:00" queuing="2015-11-02T17:18:45.1451399-06:00" start="2015-11-02T17:18:45.1791630-06:00" finish="2015-11-02T17:18:46.0187216-06:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="MultiplicarNumerosTest" storage="c:\users\yaudi02\documents\visual studio 2010\projects\calculadora\calculadoratest\bin\debug\calculadoratest.dll" id="d061af35-6c5b-f542-8386-23f538cc8a58">
+      <Execution id="20971c3d-feb4-4f84-8892-0d9141654006" />
+      <TestMethod codeBase="C:/Users/Yaudi02/Documents/Visual Studio 2010/Projects/Calculadora/calculadoraTest/bin/Debug/calculadoraTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="calculadoraTest.LogicaTest, calculadoraTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MultiplicarNumerosTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Resultados que no están en la lista" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Todos los resultados cargados" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="d061af35-6c5b-f542-8386-23f538cc8a58" executionId="20971c3d-feb4-4f84-8892-0d9141654006" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="20971c3d-feb4-4f84-8892-0d9141654006" testId="d061af35-6c5b-f542-8386-23f538cc8a58" testName="MultiplicarNumerosTest" computerName="YAUDI" duration="00:00:00.0633175" startTime="2015-11-02T17:18:45.1911706-06:00" endTime="2015-11-02T17:18:45.9666874-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="20971c3d-feb4-4f84-8892-0d9141654006">
+    </UnitTestResult>
+  </Results>
+</TestRun>

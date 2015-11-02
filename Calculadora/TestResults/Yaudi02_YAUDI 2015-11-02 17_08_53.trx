@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="87dfd2ad-e70b-460c-8e51-469029c20dca" name="Yaudi02@YAUDI 2015-11-02 17:08:53" runUser="YAUDI\Yaudi02" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="3cf43bb4-15bc-4363-bde9-c4ace15e3d25">
+    <Description>Esta es la configuración de pruebas predeterminada para una ejecución de pruebas local.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Yaudi02_YAUDI 2015-11-02 17_08_53">
+      <DeploymentItem filename="C:\Users\Yaudi02\Documents\Visual Studio 2010\Projects\Calculadora\cnClaculadora\bin\Debug\cnClaculadora.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2015-11-02T17:08:53.2025677-06:00" queuing="2015-11-02T17:08:53.2896117-06:00" start="2015-11-02T17:08:53.3646615-06:00" finish="2015-11-02T17:08:54.5104934-06:00" />
+  <ResultSummary outcome="Inconclusive">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="1" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="sumarNumerosTest" storage="c:\users\yaudi02\documents\visual studio 2010\projects\calculadora\calculadoratest\bin\debug\calculadoratest.dll" id="f0261c4f-67de-2792-b5a5-4b69e13822d1">
+      <Execution id="57d69559-e536-4af9-81ae-6d9c53ce616b" />
+      <TestMethod codeBase="C:/Users/Yaudi02/Documents/Visual Studio 2010/Projects/Calculadora/calculadoraTest/bin/Debug/calculadoraTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="calculadoraTest.LogicaTest, calculadoraTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="sumarNumerosTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Resultados que no están en la lista" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Todos los resultados cargados" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="f0261c4f-67de-2792-b5a5-4b69e13822d1" executionId="57d69559-e536-4af9-81ae-6d9c53ce616b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="57d69559-e536-4af9-81ae-6d9c53ce616b" testId="f0261c4f-67de-2792-b5a5-4b69e13822d1" testName="sumarNumerosTest" computerName="YAUDI" duration="00:00:00.1094437" startTime="2015-11-02T17:08:53.3756691-06:00" endTime="2015-11-02T17:08:54.4184321-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="57d69559-e536-4af9-81ae-6d9c53ce616b">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.Inconclusive. Compruebe la exactitud de este método de prueba.</Message>
+          <StackTrace>   en calculadoraTest.LogicaTest.sumarNumerosTest() en C:\Users\Yaudi02\Documents\Visual Studio 2010\Projects\Calculadora\calculadoraTest\LogicaTest.cs:línea 82
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>
